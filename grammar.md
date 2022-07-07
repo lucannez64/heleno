@@ -11,7 +11,7 @@ soumi kanshètu phooneugo shèneu sha
 
 ### Conjugaison
 
-| ****                     | **suffix** |
+| ****                         | **suffix** |
 |:----------------------------:|:----------:|
 | **present**                  | i          |
 | **past**                     | ad         |

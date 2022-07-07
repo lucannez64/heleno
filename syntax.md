@@ -30,14 +30,18 @@ Animal : Phooneu [ɸo:nø]
 Person : Shèneu [ʂɛnø]
 Color : Fôbreu [fɔʙø]
 Skin : Shèteu [ʂɛtø]
-Bag : Paisheu [paiʂɛ]
-Group : braisheu [ʙaiʂɛ]
+Bag : Paisheu [paiʂø]
+Group : braisheu [ʙaiʂø]
+Sun  : Aifeu [aifø]
+Moon : Wèfeu [wɛfø]
+Salute : Kilyeu [kiʎø]
 
 #### Verbs
 To see : Shieni [ʂieni]
 To sit : Voti [voti]
 To be : Soumi [sumi] 
 To have : Pashi [paʂi]
+Saluer : Kili [kili]
 
 #### Adjective
 Blue : Fôlyu [fɔʎy] 
@@ -51,6 +55,10 @@ White Skin : Kanshètu [kanʂɛty]
 Asian Skin : Gyanshètu [ɟanʂɛty]
 Together : shalyu [ʂaʎy]
 
+
+#### Interjection
+Bonjour : Aikifi [aikifi]
+Bonsoir : Wèkifi [wɛkifi]
 
 #### Postposition
 At : ba [ba]
